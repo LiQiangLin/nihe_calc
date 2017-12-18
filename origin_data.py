@@ -1,0 +1,15 @@
+t = 380.15 - 273.15
+ts = 290.93 - 273.15
+B = 101325
+np_array = [2,3]
+do = 7                              # 胀管前
+s1 = 21
+s2 = 18.2
+di = 6.85                           # 胀管后
+sf_array = [1.4,1.5,1.6]
+dertaf = 0.115
+dertat = 0.25
+# alfa_array = []
+# v_array = []
+gongkuang_array = ['gan','shi']
+datatitle = ['np','sf','alfa','nambdaa/deq','Re','Lp/deq']
